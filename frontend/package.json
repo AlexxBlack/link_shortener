@@ -1,0 +1,24 @@
+{
+  "name": "link_shortener_frontend",
+  "version": "0.0.1",
+  "description": "Shortener for the hyperlinks (test task for Deep Origin)",
+  "author": "Aleksei Ladeishchikov",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2",
+    "tailwindcss": "^4.0.14"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.2.0"
+  }
+}
